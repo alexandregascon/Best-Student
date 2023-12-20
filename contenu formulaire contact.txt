@@ -1,0 +1,13 @@
+prénom
+nom
+adresse-mail
+sujet/motif
+message (Format text-area)
+num de tél
+bouton valider
+
+
+
+Une fois validé :
+Envoyer vers une BDD
+Créer une colonne pour vérifier si le mail a été traité

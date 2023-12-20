@@ -1,0 +1,3 @@
+Ne pas faire son code autour du mercredi (faut que ça marche peut importe les valeurs)
+
+Mettre les résulats de la recherche par promotion sur la même page que la recherche (à finir)
